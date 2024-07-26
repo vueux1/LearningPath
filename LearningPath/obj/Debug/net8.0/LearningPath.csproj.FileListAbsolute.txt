@@ -1,0 +1,5 @@
+C:\Users\tekin\RiderProjects\LearningPath\LearningPath\obj\Debug\net8.0\LearningPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekin\RiderProjects\LearningPath\LearningPath\obj\Debug\net8.0\LearningPath.AssemblyInfoInputs.cache
+C:\Users\tekin\RiderProjects\LearningPath\LearningPath\obj\Debug\net8.0\LearningPath.AssemblyInfo.cs
+C:\Users\tekin\RiderProjects\LearningPath\LearningPath\obj\Debug\net8.0\LearningPath.csproj.CoreCompileInputs.cache
+C:\Users\tekin\RiderProjects\LearningPath\LearningPath\obj\Debug\net8.0\LearningPath.sourcelink.json
