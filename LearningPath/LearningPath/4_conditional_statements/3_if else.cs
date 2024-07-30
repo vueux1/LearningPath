@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2_Ödev_1
+namespace if_else
 {
     internal class Program
     {
